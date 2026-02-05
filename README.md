@@ -14,4 +14,4 @@ Files
 
 Notes
 
-- Designed as a warm, loving theme. You can customize colors in `styles.css`.
+- Designed as a deep, loving theme. You can customize colors in `styles.css`.
